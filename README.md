@@ -1,4 +1,3 @@
-# oral-cancer-classification
 # MM-DFF: Multimodal Deep Feature Fusion for Oral Cancer Classification
 
 This repository contains the source code for the paper: 
